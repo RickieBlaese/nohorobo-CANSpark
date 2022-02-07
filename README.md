@@ -10,4 +10,4 @@ Set the variables at the beginning of the example to match your setup.
 
 Control the left motor by moving the left joystick up or down.
 
-Control the right motor by moving the right joystick up or down."# nohorobo-CANSpark" 
+Control the right motor by moving the right joystick up or down.
